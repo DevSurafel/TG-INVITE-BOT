@@ -76,7 +76,7 @@ RUN_INTERVAL_HOURS = 10  # Run every 10 hours
 AUTO_START = True  # Automatically start when deployed
 
 # Session range configuration
-START_SESSION = 401  # Start from session number (1-based) - Set to None to start from beginning
+START_SESSION = 1  # Start from session number (1-based) - Set to None to start from beginning
 END_SESSION = None  # End at session number (1-based, inclusive) - Set to None to process all
 
 # Concurrency settings
