@@ -69,7 +69,7 @@ API_ID = '20500952'
 API_HASH = 'f429ad4a8b735edfa921f1cf6f7e3d0b'
 
 # Group/Channel username (without @)
-GROUP_USERNAME = "topcryptoinsider9"
+GROUP_USERNAME = "daily_forex_signal9"
 
 # Scheduler Configuration
 RUN_INTERVAL_HOURS = 10  # Run every 10 hours
